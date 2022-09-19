@@ -1,22 +1,38 @@
 {
-	"movies": [
+	"classes": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Class Name": "Information Organization and Retrieval",
+			"Course Number": "INFO 202",
+			"Instructor": "Professor David Banman",
+			"Schedule": "TuTh 9:30A-10:59A"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Class Name": "Introduction to Programming",
+			"Course Number": "INFO 206A",
+			"Instructor": "Professor John Chuang",
+			"Schedule": "MW 2:00P-3:59P"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
-		}
+			"Class Name": "Introduction to Data Structures and Analytics",
+			"Course Number": "INFO 206B",
+			"Instructor": "Professor John Chuang",
+			"Schedule": "MW 2:00P-3:59P"
+		},
+		{
+			"Class Name": "User Interface Design and Development",
+			"Course Number": "INFO 213",
+			"Instructor": "Professor Niloufar Salehi",
+			"Schedule": "MW 11:00A-12:29P"
+		},
+		{
+			"Class Name": "Qualitative Research Methods",
+			"Course Number": "INFO 272",
+			"Instructor": "Professor Laith Ulaby",
+			"Schedule": "F 2:00P-4:59P"
+		},
+	
+
+
+
 	]
 }
